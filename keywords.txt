@@ -1,0 +1,11 @@
+Bonezegei_MLX90614	KEYWORD1
+begin	KEYWORD2
+readRaw	KEYWORD2
+readAmbientCelsius	KEYWORD2
+readAmbientFahrenheit	KEYWORD2
+readObjectCelsius	KEYWORD2
+readObjectFahrenheit	KEYWORD2
+getAmbientC	KEYWORD2
+getAmbientF	KEYWORD2
+getObjectC	KEYWORD2
+getObjectF	KEYWORD2
